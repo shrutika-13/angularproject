@@ -1,0 +1,2 @@
+INDEX VERSION 1.4+D:\MeanStack\Angular_js\angular_practical\java_workplace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+589384024.index

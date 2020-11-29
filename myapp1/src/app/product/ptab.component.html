@@ -1,0 +1,8 @@
+<h1>In ptab component</h1>
+Name:{{name}}  {{sal}}
+{{"this is test component"}}
+
+<button type="button" name="btn" (click)="changeFlag()">Click me</button>
+<div *ngIf="flag">
+    <input type="text" name="nm" [{ngModel}]="name">
+</div>
